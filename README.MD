@@ -8,3 +8,5 @@ Retorna um ou mais arrays contendo os dados das funções contidas no RPO – Re
 Sintaxe: GetFuncArray( < cMascara >, [ @aTipo ], [ @aArquivo ], [ @aLinha ], [ @aData ], [ @aHora ] )
 
 <p><img src="/resources/visualizar_fontes_rpo.png"></p>
+
+<center><p><a href="https://dayz-servers.org/server/170059/"><img src="https://dayz-servers.org/server/170059/banners/leaderboard-1.png" border="0" class="img-fluid"></a></p></center>
